@@ -1,0 +1,12 @@
+info:
+  app:
+    name: AronimCloudOrganisationService
+    description: Aronim Cloud Organisation Service
+    version: 1.0-SNAPSHOT
+
+spring:
+  application:
+    name: aronim-cloud-organisation
+
+server:
+  port: 0
