@@ -15,13 +15,13 @@ import java.util.List;
 @Repository
 public class Neo4jOrganisationRepository implements OrganisationRepository
 {
-    @Autowired
-    private Neo4jTemplate neo4jTemplate;
+//    @Autowired
+//    private Neo4jTemplate neo4jTemplate;
 
     @Override
     public List<Membership> findMembershipsByUserId(String userId)
     {
-        neo4jTemplate.
+//        neo4jTemplate.
         return null;
     }
 }
